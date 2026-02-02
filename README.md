@@ -43,4 +43,4 @@ IF YOU DO NOT SEE THE GITHUB ACTIONS FILE `.github/workflows/tests.yml`, you sho
 
 The following screenshot shows that the GitHub Actions memory test is passing:
 
-![GitHub Actions passing](images/testpass.png)
+![GitHub Actions passing](testpass.png)
